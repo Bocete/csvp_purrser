@@ -7,7 +7,7 @@ type Expr interface {
 	Node
 }
 
-type Range struct {
+type TabRange struct {
 	descriptor string
 }
 
